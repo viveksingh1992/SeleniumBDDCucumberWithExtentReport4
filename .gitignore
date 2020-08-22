@@ -1,0 +1,13 @@
+# folders
+/target/
+/test-output/
+/.settings/
+/logs/
+/~/
+/report/
+/defectScreenShots/
+# file types
+*.log
+*.html
+*.css
+*.class
